@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Okra-Bold.ttf",
+      "sha1": "fef01f34e3de57171aaef4d21430736a97a57e83"
+    },
+    {
+      "path": "src/assets/fonts/Okra-Medium.ttf",
+      "sha1": "08cb46edd036cd9c7d5fb56ee346bf41cc75d26e"
+    }
+  ]
+}
