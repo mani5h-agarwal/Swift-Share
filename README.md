@@ -7,16 +7,23 @@ SwiftShare enables seamless file sharing between Android devices without using m
 ## 🌟 Screenshots
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/bf0cff6d-d5d8-4f08-a6f9-244f8cd3b811" alt="Transfer Progress" width="200"/>
-  <img src="https://github.com/user-attachments/assets/9c32f620-8716-4184-b062-29ea435ddec0" alt="Device Discovery" width="200"/>
-  <img src="https://github.com/user-attachments/assets/945ce958-3bad-4dcd-be75-3151e3810d49" alt="File Selection" width="200"/>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/bf0cff6d-d5d8-4f08-a6f9-244f8cd3b811" alt="Transfer Progress" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9c32f620-8716-4184-b062-29ea435ddec0" alt="Device Discovery" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/945ce958-3bad-4dcd-be75-3151e3810d49" alt="File Selection" width="250"/></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/02a455b4-53b3-4fd1-b3da-bf3dd4dacae0" alt="QR Code Scanning" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1db77488-59db-46dc-ac10-1e6897a3bd7c" alt="Transfer Complete" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9476f140-6fbb-45c7-8e78-17774ebb508c" alt="Home Screen" width="250"/></td>
+  </tr>
+</table>
+
 </div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/02a455b4-53b3-4fd1-b3da-bf3dd4dacae0" alt="QR Code Scanning" width="200"/>
-  <img src="https://github.com/user-attachments/assets/1db77488-59db-46dc-ac10-1e6897a3bd7c" alt="Transfer Complete" width="200"/>
-  <img src="https://github.com/user-attachments/assets/9476f140-6fbb-45c7-8e78-17774ebb508c" alt="Home Screen" width="200"/>
-</div>
 
 ## 🚀 Key Features
 
